@@ -18,7 +18,7 @@ Inspired by 🤗 [this Hugging Face Space code](https://huggingface.co/spaces/Ly
 - download the model in the project directory from [here DeepSeek-R1-Distill-Qwen-1.5B-Q6_K.gguf](https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-1.5B-Q6_K.gguf)
 - from the terminal start the chatbot and the llamacpp server with a single command
 ```
-
+start.bat
 ```
 
 
