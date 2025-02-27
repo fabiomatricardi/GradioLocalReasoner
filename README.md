@@ -21,6 +21,12 @@ Inspired by 🤗 [this Hugging Face Space code](https://huggingface.co/spaces/Ly
 start.bat
 ```
 
+For only textual interface, refer to my other Repository
+
+[🤔 DeepSeekQwen_AIO](https://github.com/fabiomatricardi/DeepSeekQwen_AIO)
+
+
+---
 
 #### For other OS
 - Clone the repo
